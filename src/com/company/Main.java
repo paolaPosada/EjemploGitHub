@@ -11,5 +11,10 @@ public class Main {
             i++;
             System.out.println(i);
         }
+        i=99;
+        while (i<=100){
+            i++;
+            System.out.printf(i);
+        }
     }
 }
