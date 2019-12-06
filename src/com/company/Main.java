@@ -6,5 +6,10 @@ public class Main {
 	// write your code here
         System.out.println("Hola mundo");
         System.out.println("Actualizar desde IntelliJ IDEA, intento 4");
+        System.out.println("lalalallalaal");
+        for (i=0; i<100; i++){
+            i++;
+            System.out.println(i);
+        }
     }
 }
