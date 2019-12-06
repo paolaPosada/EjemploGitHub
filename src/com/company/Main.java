@@ -7,14 +7,14 @@ public class Main {
         System.out.println("Hola mundo");
         System.out.println("Actualizar desde IntelliJ IDEA, intento 4");
         System.out.println("lalalallalaal");
-        for (i=0; i<100; i++){
+        for (int i=0; i<100; i++){
             i++;
             System.out.println(i);
         }
-        i=99;
+        int i =99;
         while (i<=100){
             i++;
-            System.out.printf(i);
+            System.out.println(i);
         }
     }
 }
